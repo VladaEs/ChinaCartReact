@@ -1,0 +1,8 @@
+.HeaderTextCard{
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: clamp(1rem, 3vw, 2rem);
+    color:white;
+    text-align: center;
+    margin-bottom: 5%;
+}

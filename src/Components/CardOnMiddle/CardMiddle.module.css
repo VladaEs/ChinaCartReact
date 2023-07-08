@@ -1,0 +1,18 @@
+.CardGreeting{
+    z-index: 2;
+    margin-top: -15%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+    
+    min-height: 150px;
+    min-width: 200px;
+    background-color: rgba(87, 7, 116, 0.813);
+    white-space: normal;
+    border-radius: 15px;
+}

@@ -1,0 +1,47 @@
+.BlockInfo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 5%;
+    
+}
+.BlockInfo::after{
+    content: '';
+    position: relative;
+    top: 10px;
+    left: 0;
+    background-color: black;
+    display: block;
+    width: 80%;
+    height: 2px;
+    
+}
+.DishName{
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+}
+.RowPriceAmount{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+.price{
+    font-size: 20px;
+    color:#8a2be2;
+    font-style: italic;
+    
+}
+.AmountItems{
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid rgb(159, 159, 159);
+    width: 50px;
+    height: 30px;
+}

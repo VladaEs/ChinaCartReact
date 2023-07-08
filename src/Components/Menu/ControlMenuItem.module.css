@@ -1,0 +1,61 @@
+.ControlButtonsAll{
+    position: absolute;
+    display: inline-block;
+    top: 0;
+    right: 0;
+    width: 25%;
+
+}
+.RowInpLabel{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+}
+.InputInRow{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid #00000090;
+    font-size: 15px;
+    text-indent: 5px;
+    position: relative;
+    display: inline-block;
+    width: 20%;
+    height: 20px;
+    border-radius: 4px;
+}
+.labelAmount{
+    margin-top: 3px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.buttonConfirm{
+    margin-top: 5%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    border-radius: 15px;
+    background-color: rgb(92, 56, 124);
+    color:white;
+    border:none;
+    width: 65%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    transition:.3s;
+}
+.buttonConfirm:hover{
+    background-color: rgb(40, 24, 53);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.error{
+    border: 1px solid #8b141490;
+    background-color: #fa8072;
+}

@@ -1,0 +1,23 @@
+.ToPayWrapper{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: clamp(.5rem, 2.3vw, 2rem);
+}
+.Total{
+    position: relative;
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+}
+.TotalNumber{
+    
+    font-size: 35px;
+    color: #000000;
+    
+    font-weight: bold;
+}
