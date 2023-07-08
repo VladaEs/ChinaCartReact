@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chinacartreact/static/css/main.622a2e28.css",
+    "main.js": "/chinacartreact/static/js/main.44291c7a.js",
+    "static/js/787.fd937f16.chunk.js": "/chinacartreact/static/js/787.fd937f16.chunk.js",
+    "static/media/main.png": "/chinacartreact/static/media/main.ba3aaad966df48f73bb7.png",
+    "static/media/logo.svg": "/chinacartreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chinacartreact/index.html",
+    "main.622a2e28.css.map": "/chinacartreact/static/css/main.622a2e28.css.map",
+    "main.44291c7a.js.map": "/chinacartreact/static/js/main.44291c7a.js.map",
+    "787.fd937f16.chunk.js.map": "/chinacartreact/static/js/787.fd937f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.622a2e28.css",
+    "static/js/main.44291c7a.js"
+  ]
+}
